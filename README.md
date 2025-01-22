@@ -22,8 +22,6 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SignalR](https://img.shields.io/badge/-SignalR-008080?style=flat&logo=signalr&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-430098?style=flat&logo=playwright&logoColor=white)
 
 ### Other Tools:
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)

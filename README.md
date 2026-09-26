@@ -1,11 +1,23 @@
 ## 👋 Hi, I'm Raluca!
 
-🌟 **About Me**  
-- 🔭 I'm working on projects focusing on **web development**.  
-- 🌱 I'm constantly learning new technologies to improve my skills.   
-- 🤝 I'm looking for collaboration opportunities on exciting projects.  
+### 🌟 About Me
+- 🔭 I'm working on projects focused on **web development**.
+- 🌱 I'm constantly learning new technologies to improve my skills.
+- 🤝 I'm looking for collaboration opportunities on exciting projects.
 
-## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RalucaDavid&langs_count=8&layout=compact&theme=github_dark&count_private=true&hide_border=true&hide=powershell)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats](https://github-readme-stats.vercel.app/api/?username=RalucaDavid&count_private=true&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠️ Tech I Love
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
 
+### 📊 GitHub Stats
+<p>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalucaDavid&theme=github_dark" alt="Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalucaDavid&theme=github_dark" alt="Top languages" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com/?user=RalucaDavid&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>

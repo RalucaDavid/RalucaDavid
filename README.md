@@ -2,6 +2,7 @@
 
 ### 🌟 About Me
 - 🔭 I'm working on projects focused on **web development**.
+- 💡 My main technologies of interest are **React / Next.js**, **Angular** and **Java**.
 - 🌱 I'm constantly learning new technologies to improve my skills.
 - 🤝 I'm looking for collaboration opportunities on exciting projects.
 
@@ -11,6 +12,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ### 📊 GitHub Stats
